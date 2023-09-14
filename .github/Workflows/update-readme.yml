@@ -25,7 +25,7 @@ jobs:
           weather-forecast update-weather --days=3 --city=San Antonio  --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
-          go install github.com/huantt/merge-templates@v1.0.0
+          go install github.com/computedocean/merge-templates@v1.0.0
           merge-templates README.md 'templates/README.md.tpl' '.tmp/weathers.md.tpl'
       - name: Commit
         run: |
