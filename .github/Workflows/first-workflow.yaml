@@ -1,0 +1,16 @@
+name: Hello World Workflow
+on: [push]
+
+jobs:
+    run-shell:
+        runs-on: ubuntu-latest
+        steps:
+            - name: echo a string
+              run: echo "Hello World"
+
+            - name: Get environment versions
+              run: |
+                echo "Checking environment versions"
+                echo "Node Version: $(node --version)"
+                echo "NPM Version: $(npm --version)"
+                echo "NuGet Version: $(nuget help | grep Version)"
