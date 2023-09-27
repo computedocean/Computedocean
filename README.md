@@ -1,6 +1,6 @@
 Hey What UP.
 
-Gamertag: Computedocea.
+Gamertag: Computedocean.
 I am currently unemployed looking for new Role as a System Administrator or Cloud Engineer
 
 ## 🌐 Connect with Me:
