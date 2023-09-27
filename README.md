@@ -15,10 +15,7 @@ I am currently unemployed looking for new Role as a System Administrator or Clou
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Computedocean&theme=dark&hide_border=true&layout=compact)
 
 ---
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Computedocean&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Visits]((https://visitcount.itsvg.in/api?id=computedocean&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in))
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=computedocean&label=Profile%20Views&pretty=false" />
-</a>
 
 
