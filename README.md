@@ -15,7 +15,7 @@ I am currently unemployed looking for new Role as a System Administrator or Clou
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Computedocean&theme=dark&hide_border=true&layout=compact)
 
 #vistor count
-[![visitors](https://visitcount.itsvg.in/api?id=computedocean&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=computedocean&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 
 
