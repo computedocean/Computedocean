@@ -14,7 +14,7 @@ I am currently unemployed looking for new Role as a System Administrator or Clou
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Computedocean&theme=dark&hide_border=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Computedocean&theme=dark&hide_border=true&layout=compact)
 
-#vistor count
+
 [![](https://visitcount.itsvg.in/api?id=computedocean&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 
