@@ -17,6 +17,6 @@ I am currently unemployed looking for new Role as a System Administrator or Clou
 
 [![](https://visitcount.itsvg.in/api?id=computedocean&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/HotCakeX/.github/febfcc2b3be66ef0d5ecd74694157622a7fde865/Pictures/SVG/SVG%20line%20wave%20yellow%20pink%20inverted.svg" width= "300000" alt="horizontal super thin rainbow RGB line">
+
 
 
