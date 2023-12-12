@@ -17,5 +17,6 @@ I am currently unemployed looking for new Role as a System Administrator or Clou
 
 [![](https://visitcount.itsvg.in/api?id=computedocean&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
+https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/PNG%20and%20JPG/6456346.png
 
 
