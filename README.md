@@ -1,9 +1,9 @@
 Hey What UP.
 
 Gamertag: Computedocean.
-I am Currently employed at Cavenderauto Group. I finally got a job back in February of 2024.
+I am Currently employed at Cavenderauto Group. 
 
-I was Formerly employed at Rackspace Managed Hosting for over 16 years.
+I was Previously employed at Rackspace, for over 16 years as a Windows Administrator IV
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dallmanm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-dallman-21b22355) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/computedocean) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/computedocean) 
