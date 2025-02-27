@@ -10,6 +10,10 @@ Welcome to my corner of GitHub! 🌟 With a strong background in **systems and c
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
+<a href="https://github.com/Computedocean">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/assets/github-contribution-grid-snake.svg" alt="snake gif">
+</a>
+
 
 ---
 
