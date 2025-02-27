@@ -6,8 +6,9 @@ Welcome to my corner of GitHub! 🌟 With a strong background in **systems and c
 
 ---
 
-## 🔗 Connect with Me:  
+## 🔗 Connect with Me:
 💬 Let’s collaborate, network, or just geek out!  
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dallmanm)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-dallman-21b22355)  
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/computedocean)  
