@@ -4,6 +4,10 @@
 
 Welcome to my corner of GitHub! 🌟 With a strong background in **systems and cloud engineering**, I’m currently driving innovation at **Cavenderauto Group**. Before this, I dedicated **16+ years** to **Rackspace** as a Windows Administrator IV, empowering businesses to scale their IT infrastructure and crush their goals.  
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Cloud+Engineer+%7C+Automation+Nerd;16%2B+years+in+IT+Infrastructure;Passionate+about+Tech+%26+Gaming)](https://git.io/typing-svg)
+
+
 ---
 
 ## 🔗 Connect with Me:
