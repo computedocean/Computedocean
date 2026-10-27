@@ -1,224 +1,116 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:00F7FF,100:0072C6\&height=200\&section=header\&text=Computedocean\&fontSize=50\&fontColor=ffffff\&animation=fadeIn)
+<div align="center">
 
-# 👋 Hi, I'm Michael Dallman
+<img src="assets/header.svg" alt="Michael Dallman, computedocean, Cloud and Systems Engineer" width="100%" />
 
-**Cloud & Systems Engineer | AI Infrastructure Builder | Agent Systems**
+<a href="https://github.com/computedocean">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=640&lines=Cloud+%26+Systems+Engineer;18+years+keeping+production+alive;Azure+Administrator+(AZ-104);Infrastructure+person+building+AI+agents;San+Antonio%2C+Texas+%F0%9F%A4%A0" alt="Typing intro" />
+</a>
 
-```yaml
-name:        Michael Dallman
-handle:      computedocean
-role:        Cloud & Systems Engineer · AI Infrastructure Builder
-location:    San Antonio, Texas 🤠
-experience:  16+ years in IT Infrastructure
-past:        Rackspace — Windows Admin IV (2005–2023)
-certs:       Microsoft Azure Administrator Associate (AZ-104)
-focus:       Cloud Infrastructure · Automation · AI Agents · Secure Systems
-building:    CAOS — Computedocean Agent Operating System
-gaming:      Twitch @ computedocean | Xbox
-fun_fact:    Migrated 5 firewalls in a single weekend. Survived.
-```
+<br/>
 
----
+![Azure](https://img.shields.io/badge/AZ--104-Azure_Administrator-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Rackspace](https://img.shields.io/badge/Rackspace-18_years-C40022?style=flat-square)
+![Location](https://img.shields.io/badge/San_Antonio-TX-00B4D8?style=flat-square)
+[![Twitch](https://img.shields.io/badge/Twitch-computedocean-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/computedocean)
 
-## 🧠 About Me
+</div>
 
-I'm a **Cloud & Systems Engineer with 16+ years of enterprise IT infrastructure experience**, specializing in Windows infrastructure, cloud platforms, automation, networking, identity, and systems engineering.
+<br/>
 
-I spent **18 years at Rackspace**, progressing to **Windows Admin IV**, where I built extensive experience supporting enterprise infrastructure and solving complex systems problems.
+<div align="center">
+  <img src="assets/boot.svg" alt="Terminal boot sequence summarizing Michael's career and stack" width="100%" />
+</div>
 
-Today, I'm focused on combining that infrastructure background with **cloud automation and AI agent engineering**.
+## 👋 Hi, I'm Michael
 
-My current mission:
+I'm an infrastructure engineer at heart. I spent **18 years at Rackspace**, working my way up to **Windows Admin IV** and keeping enterprise Windows environments running in production: Active Directory, identity, networking, migrations, and the 2 a.m. calls nobody else wanted. Once I migrated five firewalls in a single weekend. I survived.
+
+That career taught me how real systems behave. They break in ways nobody planned for. Good engineers inspect before they touch anything. And "done" means verified, not just deployed.
+
+These days I'm taking that mindset into **cloud automation and AI agent engineering**. I'm less interested in AI that writes text and more interested in AI that can **understand, plan, act, verify, and learn** inside real systems, with the guardrails an ops person would insist on.
 
 > **Build intelligent systems that can reason, plan, execute, verify, and continuously improve.**
 
----
+## 🧭 Career
 
-# 🤖 CAOS — Computedocean Agent Operating System
+<div align="center">
+  <img src="assets/timeline.svg" alt="Career timeline: Rackspace 2005 to 2023, Windows Admin IV, AZ-104, now cloud and AI agents" width="100%" />
+</div>
 
-My primary engineering project is **CAOS**, a personal Agent Operating System designed to bring together traditional systems engineering and modern AI.
+### ⚡ Quick facts
 
-### CAOS is being built around:
-
-* 🤖 AI agent orchestration
-* 🧠 Persistent agent memory
-* 🛠️ Tool execution
-* 🔐 Policy enforcement
-* 👤 Human approval workflows
-* 📋 Audit logging
-* 🖥️ System and filesystem automation
-* ☁️ Cloud infrastructure
-* 🔄 Agent planning and execution loops
-* ✅ Verification and goal reconciliation
-
-The goal isn't to build another chatbot.
-
-**The goal is to build an operating system for intelligent agents.**
-
----
-
-## 🔄 Engineering Philosophy
-
-I build systems using an iterative engineering loop:
-
-```text
-INSPECT
-   ↓
-PLAN
-   ↓
-IMPLEMENT
-   ↓
-VERIFY
-   ↓
-REVIEW
-   ↓
-ITERATE
-   ↺
+```yaml
+handle:   computedocean
+based:    San Antonio, Texas 🤠
+roots:    Windows infrastructure
+loves:    automation that verifies itself
+record:   5 firewalls, 1 weekend
+off-hrs:  streaming on Twitch · Xbox
 ```
 
-I believe reliable software and infrastructure are built through **continuous inspection, implementation, verification, and review** rather than one-shot development.
+## 🔄 How I Work
 
-That philosophy is now at the center of how I approach AI agent engineering.
+<div align="center">
+  <img src="assets/build-loop.svg" alt="Inspect, plan, implement, verify, review, iterate" width="100%" />
+</div>
 
----
+I don't believe in one-shot fixes. Reliable software and infrastructure come from **continuous inspection, implementation, verification, and review**. That's how I ran production, and it's how I build now.
 
-# 🧰 Tech Toolbox
+## 🧰 Toolbox
 
-## ☁️ Cloud & Infrastructure
+<div align="center">
 
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
-![Microsoft Entra](https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+**Cloud & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,windows,linux&theme=dark" alt="Cloud and infrastructure" />
 
-## ⚙️ DevOps & Automation
+**Automation & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=powershell,py,terraform,docker,git,githubactions&theme=dark" alt="Automation and DevOps" />
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
-## 🤖 AI & Agent Engineering
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI-Agent%20Systems-7B61FF?style=for-the-badge)
-![Agent Architecture](https://img.shields.io/badge/Agent-Architecture-00B4D8?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Intelligent-Automation-0072C6?style=for-the-badge)
-
-## 💻 Systems
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-## 🔐 Security & Identity
-
+**AI & Services**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
+![Entra](https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-FF2D78?style=for-the-badge)
-![SSO](https://img.shields.io/badge/SSO-Integration-00B4D8?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-Gateway-0F4C81?style=for-the-badge)
 
----
+</div>
 
-# 🏗️ Infrastructure Experience
-
-### Rackspace
-
-**Windows Admin IV · 2005–2023**
-
-Enterprise infrastructure experience across:
-
-* Windows Server
-* Active Directory
-* Microsoft technologies
-* Systems administration
-* Enterprise troubleshooting
-* Infrastructure automation
-* Networking
-* Cloud technologies
-* Production environments
-* Large-scale infrastructure operations
-
----
-
-# 📜 Certifications
-
-### Microsoft Certified: Azure Administrator Associate
-
-**AZ-104**
-
----
-
-# 🚀 Current Focus
-
-I'm currently working at the intersection of:
+## 🚀 Current Focus
 
 ```text
-        CLOUD
-          +
-    INFRASTRUCTURE
-          +
-      AUTOMATION
-          +
-      AI AGENTS
-          =
-   INTELLIGENT SYSTEMS
+CLOUD  +  INFRASTRUCTURE  +  AUTOMATION  +  AI AGENTS  =  INTELLIGENT SYSTEMS
 ```
 
-I'm particularly interested in building systems where AI isn't simply generating text, but can:
+My main side project is **🤖 CAOS, the Computedocean Agent Operating System**. It's where my infrastructure background meets AI: agent orchestration, persistent memory, tool execution, policy enforcement, human approvals, and audit logging. The goal isn't another chatbot. **It's an operating system for intelligent agents.**
 
-**Understand → Plan → Act → Verify → Learn**
-
----
-
-# 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=computedocean&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=computedocean&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computedocean&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00F7FF" alt="Top languages" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computedocean&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=computedocean&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="Contribution streak" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=computedocean&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/computedocean/Computedocean/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/computedocean/Computedocean/output/snake-light.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/computedocean/Computedocean/output/snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
----
+## 🎮 Off the Clock
 
-# 🏆 GitHub Achievements
+When I'm not building, I'm usually gaming on Xbox or streaming on Twitch. Come say hi.
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=computedocean\&theme=tokyonight\&no-frame=true\&margin-w=12\&margin-h=12\&column=7)
-
-</div>
-
----
-
-# 🔥 Contribution Activity
+[![Twitch](https://img.shields.io/badge/Twitch-computedocean-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/computedocean)
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=computedocean\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/computedocean)
+### ⚡ Infrastructure roots. AI-agent future.
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=computedocean&color=0072C6&style=flat-square&label=visitors)
 
----
-
-# 🌐 Connect With Me
-
-[![Twitch](https://img.shields.io/badge/Twitch-computedocean-9146FF?style=for-the-badge\&logo=twitch)](https://twitch.tv/computedocean)
-
-![Profile Views](https://komarev.com/ghpvc/?username=computedocean\&color=blue)
-
----
-
-<div align="center">
-
-### ⚡ Building the future at the intersection of infrastructure and AI.
-
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00F7FF,100:0072C6\&height=120\&section=footer)
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>

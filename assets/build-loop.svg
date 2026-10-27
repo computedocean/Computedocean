@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="380" viewBox="0 0 820 380" role="img" aria-label="Engineering loop: inspect, plan, implement, verify, review, iterate">
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .node rect { fill: #0d1117; stroke: #1f6f8b; stroke-width: 1.5; animation: pulse 6s linear infinite; }
+    .node text { fill: #8b9bb0; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; animation: glow 6s linear infinite; }
+    @keyframes pulse {
+      0%, 14% { fill: #06323d; stroke: #00F7FF; }
+      22%, 100% { fill: #0d1117; stroke: #1f6f8b; }
+    }
+    @keyframes glow {
+      0%, 14% { fill: #00F7FF; }
+      22%, 100% { fill: #8b9bb0; }
+    }
+    .n1 rect, .n1 text { animation-delay: 0s; }
+    .n2 rect, .n2 text { animation-delay: 1s; }
+    .n3 rect, .n3 text { animation-delay: 2s; }
+    .n4 rect, .n4 text { animation-delay: 3s; }
+    .n5 rect, .n5 text { animation-delay: 4s; }
+    .n6 rect, .n6 text { animation-delay: 5s; }
+    @media (prefers-reduced-motion: reduce) {
+      .node rect, .node text { animation: none; }
+      .orbit { display: none; }
+    }
+  </style>
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0072C6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0072C6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#0072C6"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="378" rx="12" fill="#0d1117" stroke="#1f6f8b" stroke-width="2"/>
+
+  <circle cx="410" cy="190" r="95" fill="url(#core)"/>
+  <circle cx="410" cy="190" r="135" fill="none" stroke="url(#ring)" stroke-width="2" stroke-dasharray="4 8" opacity="0.6">
+    <animateTransform attributeName="transform" type="rotate" from="0 410 190" to="360 410 190" dur="40s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="410" y="186" text-anchor="middle" class="mono" fill="#ffffff" font-size="34" font-weight="800" letter-spacing="4">BUILD</text>
+  <text x="410" y="212" text-anchor="middle" class="mono" fill="#6b7a90" font-size="12" letter-spacing="2">LOOP</text>
+
+  <g class="orbit">
+    <circle r="7" fill="#00F7FF" opacity="0.25">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M410,55 A135,135 0 1,1 409.99,55"/>
+    </circle>
+    <circle r="4" fill="#00F7FF">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M410,55 A135,135 0 1,1 409.99,55"/>
+    </circle>
+  </g>
+
+  <g class="mono">
+    <g class="node n1"><rect x="350" y="38" width="120" height="34" rx="8"/><text x="410" y="60" text-anchor="middle">INSPECT</text></g>
+    <g class="node n2"><rect x="467" y="105" width="120" height="34" rx="8"/><text x="527" y="127" text-anchor="middle">PLAN</text></g>
+    <g class="node n3"><rect x="467" y="241" width="120" height="34" rx="8"/><text x="527" y="263" text-anchor="middle">IMPLEMENT</text></g>
+    <g class="node n4"><rect x="350" y="308" width="120" height="34" rx="8"/><text x="410" y="330" text-anchor="middle">VERIFY</text></g>
+    <g class="node n5"><rect x="233" y="241" width="120" height="34" rx="8"/><text x="293" y="263" text-anchor="middle">REVIEW</text></g>
+    <g class="node n6"><rect x="233" y="105" width="120" height="34" rx="8"/><text x="293" y="127" text-anchor="middle">ITERATE</text></g>
+  </g>
+
+  <text x="30" y="362" class="mono" fill="#6b7a90" font-size="11">reliable systems are iterated, not one-shot</text>
+  <text x="790" y="362" text-anchor="end" class="mono" fill="#6b7a90" font-size="11">understand → plan → act → verify → learn</text>
+</svg>

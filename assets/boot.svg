@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="372" viewBox="0 0 820 372" role="img" aria-label="Boot sequence: Michael Dallman's career, stack and projects as a terminal boot log">
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; }
+    .dim { fill: #6b7a90; }
+    .txt { fill: #c9d1d9; }
+    .ok { fill: #3fb950; font-weight: 700; }
+    .warn { fill: #d29922; font-weight: 700; }
+    .cyan { fill: #00F7FF; }
+    .blue { fill: #58a6ff; }
+    .ready { fill: #00F7FF; font-weight: 700; }
+    .line { opacity: 0; animation: show 0.25s ease-out forwards; }
+    @keyframes show { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    .cursor { opacity: 0; animation: show 0.1s 4.6s forwards, blink 1s 4.7s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .cursor { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="818" height="370" rx="12" fill="#0d1117" stroke="#1f6f8b" stroke-width="2"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h794 a12 12 0 0 1 12 12 v23 h-818 z" fill="#161b22"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="19" r="6" fill="#27c93f"/>
+  <text x="410" y="23" text-anchor="middle" class="mono dim" font-size="12">michael@computedocean: ~</text>
+
+  <g class="mono" xml:space="preserve">
+    <text x="24" y="66" class="line" style="animation-delay:0.2s"><tspan class="cyan">$</tspan><tspan class="txt"> ./computedocean --boot</tspan></text>
+
+    <text x="24" y="96" class="line" style="animation-delay:0.8s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Loading kernel        </tspan><tspan class="dim"> → </tspan><tspan class="blue">18 yrs @ Rackspace · Windows Admin IV</tspan></text>
+    <text x="24" y="120" class="line" style="animation-delay:1.2s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Mounting /infra       </tspan><tspan class="dim"> → </tspan><tspan class="blue">Windows Server · Active Directory · Networking</tspan></text>
+    <text x="24" y="144" class="line" style="animation-delay:1.6s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Mounting /cloud       </tspan><tspan class="dim"> → </tspan><tspan class="blue">Azure (AZ-104) · AWS · Google Cloud</tspan></text>
+    <text x="24" y="168" class="line" style="animation-delay:2.0s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Starting automation   </tspan><tspan class="dim"> → </tspan><tspan class="blue">PowerShell · Python · Terraform · Docker</tspan></text>
+    <text x="24" y="192" class="line" style="animation-delay:2.4s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Starting policy-engine</tspan><tspan class="dim"> → </tspan><tspan class="blue">approvals · audit log · zero trust</tspan></text>
+    <text x="24" y="216" class="line" style="animation-delay:2.8s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Starting agent-runtime</tspan><tspan class="dim"> → </tspan><tspan class="blue">plan · act · verify · learn</tspan></text>
+    <text x="24" y="240" class="line" style="animation-delay:3.2s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Loading off-hours     </tspan><tspan class="dim"> → </tspan><tspan class="blue">Twitch @ computedocean · Xbox</tspan></text>
+    <text x="24" y="264" class="line" style="animation-delay:3.6s"><tspan class="warn">[ WARN ]</tspan><tspan class="txt"> firewall.migrate      </tspan><tspan class="dim"> → </tspan><tspan class="txt">5 firewalls, 1 weekend. Survived.</tspan></text>
+
+    <text x="24" y="302" class="line" style="animation-delay:4.1s"><tspan class="ready">System ready.</tspan><tspan class="txt"> Building intelligent systems from San Antonio, TX.</tspan></text>
+    <text x="24" y="332" class="line" style="animation-delay:4.5s"><tspan class="cyan">$</tspan></text>
+    <rect x="40" y="320" width="9" height="16" fill="#00F7FF" class="cursor"/>
+  </g>
+</svg>
