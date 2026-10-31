@@ -11,6 +11,7 @@
 ![Azure](https://img.shields.io/badge/AZ--104-Azure_Administrator-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Rackspace](https://img.shields.io/badge/Rackspace-18_years-C40022?style=flat-square)
 ![Location](https://img.shields.io/badge/San_Antonio-TX-00B4D8?style=flat-square)
+[![GitHub Universe](https://img.shields.io/badge/GitHub_Universe-2026_Completed-8957E5?style=flat-square&logo=github&logoColor=white)](#-recent-learning)
 [![Twitch](https://img.shields.io/badge/Twitch-computedocean-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/computedocean)
 
 </div>
@@ -81,6 +82,22 @@ CLOUD  +  INFRASTRUCTURE  +  AUTOMATION  +  AI AGENTS  =  INTELLIGENT SYSTEMS
 ```
 
 My main side project is **🤖 CAOS, the Computedocean Agent Operating System**. It's where my infrastructure background meets AI: agent orchestration, persistent memory, tool execution, policy enforcement, human approvals, and audit logging. The goal isn't another chatbot. **It's an operating system for intelligent agents.**
+
+### 🎓 Recent Learning
+
+<table>
+  <tr>
+    <td width="200" align="center">
+      <a href="https://github.com/computedocean/virtual-universe-26">
+        <img src="assets/virtual-universe-26-badge.gif" width="180" alt="Completion badge: Congratulations @computedocean, you finished Virtual Universe '26" />
+      </a>
+    </td>
+    <td>
+      <b>GitHub Virtual Universe '26</b> · completed October 2026<br/><br/>
+      Hands-on with GitHub's newest agent-era features: <b>stacked pull requests</b>, <b>Copilot agents and automations</b>, and <b>AI-powered security</b> like AI Scan and package firewall.
+    </td>
+  </tr>
+</table>
 
 ## 📊 Activity
 
