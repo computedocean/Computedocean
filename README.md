@@ -8,6 +8,7 @@
 
 <br/>
 
+🎤 Attending Microsoft Ignite 2026 (Nov 17–20, digital) — my sessions & notes: https://github.com/computedocean/ignite-2026-notes
 ![Azure](https://img.shields.io/badge/AZ--104-Azure_Administrator-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Rackspace](https://img.shields.io/badge/Rackspace-18_years-C40022?style=flat-square)
 ![Location](https://img.shields.io/badge/San_Antonio-TX-00B4D8?style=flat-square)
