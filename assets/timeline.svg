@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-label="Career timeline: joined Rackspace in 2005, worked up to Windows Admin IV, 18 years through 2023, Azure Administrator certification, now cloud and AI agent engineering">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-label="Career timeline: joined Rackspace in 2007, worked up to Windows Admin IV, 16+ years through 2023, Cavender Auto Group 2024–2026, now cloud and AI agent engineering">
   <style>
     .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
@@ -30,10 +30,10 @@
   <line x1="90" y1="112" x2="730" y2="112" stroke="#1b2a3a" stroke-width="4" stroke-linecap="round"/>
   <line x1="90" y1="112" x2="730" y2="112" stroke="url(#trackGrad)" stroke-width="4" stroke-linecap="round" class="track"/>
 
-  <!-- 2005 -->
+  <!-- 2007 -->
   <g class="stop s1"><circle cx="90" cy="112" r="11" fill="#0d1117" stroke="#0072C6" stroke-width="3"/><circle cx="90" cy="112" r="4" fill="#0072C6"/></g>
   <g class="label s1">
-    <text x="90" y="80" text-anchor="middle" class="mono" fill="#58a6ff" font-size="15" font-weight="700">2005</text>
+    <text x="90" y="80" text-anchor="middle" class="mono" fill="#58a6ff" font-size="15" font-weight="700">2007</text>
     <text x="90" y="148" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="600">Joined Rackspace</text>
     <text x="90" y="168" text-anchor="middle" class="sans" fill="#8b949e" font-size="12">Windows infrastructure</text>
   </g>
@@ -50,16 +50,16 @@
   <g class="stop s3"><circle cx="410" cy="112" r="11" fill="#0d1117" stroke="#00a3d9" stroke-width="3"/><circle cx="410" cy="112" r="4" fill="#00a3d9"/></g>
   <g class="label s3">
     <text x="410" y="80" text-anchor="middle" class="mono" fill="#58a6ff" font-size="15" font-weight="700">2023</text>
-    <text x="410" y="148" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="600">18 years complete</text>
+    <text x="410" y="148" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="600">16+ years complete</text>
     <text x="410" y="168" text-anchor="middle" class="sans" fill="#8b949e" font-size="12">5 firewalls, 1 weekend</text>
   </g>
 
-  <!-- AZ-104 -->
+  <!-- 2024 -->
   <g class="stop s4"><circle cx="570" cy="112" r="11" fill="#0d1117" stroke="#00c8ea" stroke-width="3"/><circle cx="570" cy="112" r="4" fill="#00c8ea"/></g>
   <g class="label s4">
-    <text x="570" y="80" text-anchor="middle" class="mono" fill="#58a6ff" font-size="15" font-weight="700">AZ-104</text>
-    <text x="570" y="148" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="600">Azure Administrator</text>
-    <text x="570" y="168" text-anchor="middle" class="sans" fill="#8b949e" font-size="12">Microsoft Certified</text>
+    <text x="570" y="80" text-anchor="middle" class="mono" fill="#58a6ff" font-size="15" font-weight="700">2024</text>
+    <text x="570" y="148" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="600">Cavender Auto Group</text>
+    <text x="570" y="168" text-anchor="middle" class="sans" fill="#8b949e" font-size="12">ran the stack solo</text>
   </g>
 
   <!-- NOW -->

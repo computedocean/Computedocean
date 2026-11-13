@@ -27,9 +27,9 @@
   <g class="mono" xml:space="preserve">
     <text x="24" y="66" class="line" style="animation-delay:0.2s"><tspan class="cyan">$</tspan><tspan class="txt"> ./computedocean --boot</tspan></text>
 
-    <text x="24" y="96" class="line" style="animation-delay:0.8s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Loading kernel        </tspan><tspan class="dim"> → </tspan><tspan class="blue">18 yrs @ Rackspace · Windows Admin IV</tspan></text>
+    <text x="24" y="96" class="line" style="animation-delay:0.8s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Loading kernel        </tspan><tspan class="dim"> → </tspan><tspan class="blue">16+ yrs @ Rackspace · Windows Admin IV</tspan></text>
     <text x="24" y="120" class="line" style="animation-delay:1.2s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Mounting /infra       </tspan><tspan class="dim"> → </tspan><tspan class="blue">Windows Server · Active Directory · Networking</tspan></text>
-    <text x="24" y="144" class="line" style="animation-delay:1.6s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Mounting /cloud       </tspan><tspan class="dim"> → </tspan><tspan class="blue">Azure (AZ-104) · AWS · Google Cloud</tspan></text>
+    <text x="24" y="144" class="line" style="animation-delay:1.6s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Mounting /cloud       </tspan><tspan class="dim"> → </tspan><tspan class="blue">Azure · M365 · AWS · Google Cloud</tspan></text>
     <text x="24" y="168" class="line" style="animation-delay:2.0s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Starting automation   </tspan><tspan class="dim"> → </tspan><tspan class="blue">PowerShell · Python · Terraform · Docker</tspan></text>
     <text x="24" y="192" class="line" style="animation-delay:2.4s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Starting policy-engine</tspan><tspan class="dim"> → </tspan><tspan class="blue">approvals · audit log · zero trust</tspan></text>
     <text x="24" y="216" class="line" style="animation-delay:2.8s"><tspan class="ok">[  OK  ]</tspan><tspan class="txt"> Starting agent-runtime</tspan><tspan class="dim"> → </tspan><tspan class="blue">plan · act · verify · learn</tspan></text>

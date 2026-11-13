@@ -3,14 +3,13 @@
 <img src="assets/header.svg" alt="Michael Dallman, computedocean, Cloud and Systems Engineer" width="100%" />
 
 <a href="https://github.com/computedocean">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=640&lines=Cloud+%26+Systems+Engineer;18+years+keeping+production+alive;Azure+Administrator+(AZ-104);Infrastructure+person+building+AI+agents;San+Antonio%2C+Texas+%F0%9F%A4%A0" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=640&lines=Cloud+%26+Systems+Engineer;28%2B+years+in+IT;Azure+%26+M365+Engineer;Infrastructure+person+building+AI+agents;San+Antonio%2C+Texas+%F0%9F%A4%A0" alt="Typing intro" />
 </a>
 
 <br/>
 
 🎤 Attending Microsoft Ignite 2026 (Nov 17–20, digital) — my sessions & notes: https://github.com/computedocean/ignite-2026-notes
-![Azure](https://img.shields.io/badge/AZ--104-Azure_Administrator-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Rackspace](https://img.shields.io/badge/Rackspace-18_years-C40022?style=flat-square)
+![Rackspace](https://img.shields.io/badge/Rackspace-16%2B_years-C40022?style=flat-square)
 ![Location](https://img.shields.io/badge/San_Antonio-TX-00B4D8?style=flat-square)
 [![GitHub Universe](https://img.shields.io/badge/GitHub_Universe-2026_Completed-8957E5?style=flat-square&logo=github&logoColor=white)](#-recent-learning)
 [![Twitch](https://img.shields.io/badge/Twitch-computedocean-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/computedocean)
@@ -25,7 +24,9 @@
 
 ## 👋 Hi, I'm Michael
 
-I'm an infrastructure engineer at heart. I spent **18 years at Rackspace**, working my way up to **Windows Admin IV** and keeping enterprise Windows environments running in production: Active Directory, identity, networking, migrations, and the 2 a.m. calls nobody else wanted. Once I migrated five firewalls in a single weekend. I survived.
+I'm an infrastructure engineer at heart. I spent **16+ years at Rackspace**, working my way up to **Windows Admin IV** and keeping enterprise Windows environments running in production: Active Directory, identity, networking, migrations, and the 2 a.m. calls nobody else wanted. Once I migrated five firewalls in a single weekend. I survived.
+
+After Rackspace I ran the whole stack solo at **Cavender Auto Group (2024–2026)** — Microsoft 365, Entra ID, Active Directory, Exchange Online, Azure VMs, VNets, NSGs, and Backup, an Azure-hosted domain controller, PowerShell automation, SentinelOne and Arctic Wolf, Sophos firewalls, and UniFi.
 
 That career taught me how real systems behave. They break in ways nobody planned for. Good engineers inspect before they touch anything. And "done" means verified, not just deployed.
 
@@ -36,7 +37,7 @@ These days I'm taking that mindset into **cloud automation and AI agent engineer
 ## 🧭 Career
 
 <div align="center">
-  <img src="assets/timeline.svg" alt="Career timeline: Rackspace 2005 to 2023, Windows Admin IV, AZ-104, now cloud and AI agents" width="100%" />
+  <img src="assets/timeline.svg" alt="Career timeline: Rackspace 2007 to 2023, Windows Admin IV, Cavender 2024–2026, now cloud and AI agents" width="100%" />
 </div>
 
 ### ⚡ Quick facts
@@ -45,6 +46,7 @@ These days I'm taking that mindset into **cloud automation and AI agent engineer
 handle:   computedocean
 based:    San Antonio, Texas 🤠
 roots:    Windows infrastructure
+recent:   Cavender Auto Group · 2024–2026
 loves:    automation that verifies itself
 record:   5 firewalls, 1 weekend
 off-hrs:  streaming on Twitch · Xbox
